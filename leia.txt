@@ -10,5 +10,19 @@ git add "arquivo", adiciona arquivo pra controle de versão
 
 pra conferir dé git status dnv
 
+git status ., add ao controle de versão todos os arquvios pendentes na pasta
+
+git commit -m "msg", essa msg é boa prática
+na primeira vez ele q vc configure
+gif config --global user.email"isaque.compositor@hotmail.com
+ 
+ git push, envia pra nuvem. ele vai pedir url e nome
+ 
+ git remote add origin (link do projeto no github), define pra onde o código será enviado
+ 
+ 
+ 
+ 
+
 
 
