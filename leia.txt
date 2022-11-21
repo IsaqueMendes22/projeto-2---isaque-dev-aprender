@@ -20,8 +20,28 @@ gif config --global user.email"isaque.compositor@hotmail.com
  
  git remote add origin (link do projeto no github), define pra onde o código será enviado
  
+ dps, git push pra enviar de fato
  
- 
+git reflog, exibe histórico de versões no terminal
+versão do todo é mais atual
+
+git reset-- hard "idd do commit (é um código q aparece no reflog)" ele volta pra uma versão anterior (local)
+
+
+
+git branch, ver branches disponíveis no momento
+
+git branch staging, esse staging é apenas um nome q sigifica q ainda está recebendo atualizações, ainda não está em produção (poderia ser qualquer nome)
+
+git checkou staging, muda de branch
+
+a selecionada fica asterisco e verde
+
+git merge <escolhe branch q vai se unir a seleciomada>
+
+git checkou -b <nova branch> <branch referêmcia>, criar nova baseada em outra
+
+
  
 
 
