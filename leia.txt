@@ -41,8 +41,11 @@ git merge <escolhe branch q vai se unir a seleciomada>
 
 git checkou -b <nova branch> <branch referêmcia>, criar nova baseada em outra
 
+sistema-de-login
+
 fazer merge sempre no atual, se fizer no antigo é cagada
 
+ master
 
  
 
