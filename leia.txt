@@ -1,0 +1,14 @@
+canal do yt
+Curso de Git e Github COMPLETO 2021 [Iniciantes] + Desafios + Muita Prática
+https://www.youtube.com/watch?v=kB5e-gTAl_s
+
+botão direito > bash here > digite: git init (cria arquivo oculto base na pasta)
+
+git status, relatório das arquivos q foram incluídos no controle de versão e qual não estão, ou se algum arquivo foi atualizado
+
+git add "arquivo", adiciona arquivo pra controle de versão
+
+pra conferir dé git status dnv
+
+
+
